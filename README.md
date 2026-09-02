@@ -4,6 +4,10 @@ A complete, production-ready RESTful API for a Library Management System built w
 
 ---
 
+Live Deploy Link : [https://assignment-6-library-management-api-sdk2.onrender.com](https://assignment-6-library-management-api-sdk2.onrender.com/)
+
+---
+
 ## 📌 Features
 
 - **JWT Authentication & Authorization**: Secure signup, login, and token verification with bcrypt password hashing.
